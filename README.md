@@ -29,9 +29,9 @@ The main objectives of this project are:
 
 ---
 
-## 🧮 Key Metrics & DAX Calculations
+##  Key Metrics & DAX Calculations
 
-### 🔹 Transaction Analysis
+###  Transaction Analysis
 
 * **Running Total of Transactions** → Cumulative transaction amount over time.
 * **4-Week Moving Average** → Smoothens trends in credit limits.
